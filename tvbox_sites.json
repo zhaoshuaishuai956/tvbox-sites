@@ -215,6 +215,69 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "ttvideos",
+      "name": "天天影视",
+      "type": 0,
+      "api": "https://www.ttvideos.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "kantv",
+      "name": "看TV",
+      "type": 0,
+      "api": "https://www.kantv.cc/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "lanzhui",
+      "name": "兰舟影视",
+      "type": 0,
+      "api": "https://www.lanzhui.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "shandian",
+      "name": "闪电资源",
+      "type": 0,
+      "api": "https://www.shandianzy.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "jubaibai",
+      "name": "剧白白",
+      "type": 0,
+      "api": "https://www.jubaibai.cc/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "zhibo",
+      "name": "直播吧",
+      "type": 0,
+      "api": "https://www.zhibo.pro/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "zhuan",
+      "name": "转转影视",
+      "type": 0,
+      "api": "https://www.zhuan.pro/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ],
   "lives": [
