@@ -36,3 +36,6 @@ https://raw.githubusercontent.com/zhaoshuaishuai956/tvbox-sites/master/tvbox_sit
 - 移除失效：麒麟资源站、看TV
 - 移除慢速（<1KB/s）：天天影视、直播吧
 - 剩余 29 个可用站点
+
+### 2026-05-10（32 个采集站）
+- 新增：量子采集、量子采集2、量子资源（来源：GitHub TVBox源搜索）
