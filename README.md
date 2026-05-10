@@ -39,3 +39,7 @@ https://raw.githubusercontent.com/zhaoshuaishuai956/tvbox-sites/master/tvbox_sit
 
 ### 2026-05-10（32 个采集站）
 - 新增：量子采集、量子采集2、量子资源（来源：GitHub TVBox源搜索）
+
+### 2026-05-10（5 个采集站）- 仅保留最快
+- 保留：速播资源2、爱坤资源、速播资源站、豪华资源站、量子资源
+- 速度门槛：>5 KB/s
