@@ -23,3 +23,7 @@ https://raw.githubusercontent.com/zhaoshuaishuai956/tvbox-sites/master/tvbox_sit
 ### 2026-05-08（31 个采集站）
 - 初始版本，包含 24 个采集站
 - 来源：非凡、暴风、量子、新浪、虎牙等主流资源站
+
+### 2026-05-10（37 个采集站）
+- 来源：zzzypro.com 检测，新增猫眼资源、电影天堂资源
+- zzzypro 影视资源共 15 个可用（已在库中），其余与现有重复
