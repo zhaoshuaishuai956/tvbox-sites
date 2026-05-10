@@ -136,15 +136,6 @@
       "filterable": 0
     },
     {
-      "key": "qilin",
-      "name": "麒麟资源站",
-      "type": 0,
-      "api": "http://www.qilinzyz.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "haohua",
       "name": "豪华资源站",
       "type": 0,
@@ -208,24 +199,6 @@
       "filterable": 0
     },
     {
-      "key": "ttvideos",
-      "name": "天天影视",
-      "type": 0,
-      "api": "https://www.ttvideos.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "kantv",
-      "name": "看TV",
-      "type": 0,
-      "api": "https://www.kantv.cc/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "lanzhui",
       "name": "兰舟影视",
       "type": 0,
@@ -239,15 +212,6 @@
       "name": "闪电资源",
       "type": 0,
       "api": "https://www.shandianzy.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "zhibo",
-      "name": "直播吧",
-      "type": 0,
-      "api": "https://www.zhibo.pro/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
