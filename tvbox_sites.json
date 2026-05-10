@@ -163,15 +163,6 @@
       "filterable": 0
     },
     {
-      "key": "heimuer",
-      "name": "黑木耳资源站",
-      "type": 0,
-      "api": "https://heimuer.tv/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "akzy",
       "name": "爱坤资源",
       "type": 1,
@@ -253,15 +244,6 @@
       "filterable": 0
     },
     {
-      "key": "jubaibai",
-      "name": "剧白白",
-      "type": 0,
-      "api": "https://www.jubaibai.cc/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "zhibo",
       "name": "直播吧",
       "type": 0,
@@ -307,28 +289,10 @@
       "filterable": 0
     },
     {
-      "key": "leyuzy",
-      "name": "乐鱼资源",
-      "type": 1,
-      "api": "https://www.leyuzyapi.com/inc/apijson_vod.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "maoyan",
       "name": "猫眼资源",
       "type": 0,
       "api": "https://www.maoyanzy.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "dytt",
-      "name": "电影天堂资源",
-      "type": 0,
-      "api": "https://www.dyttvip.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
